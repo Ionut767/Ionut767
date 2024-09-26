@@ -23,21 +23,50 @@
 ### ☄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![QuickDB](https://img.shields.io/badge/QuickDB-000000?style=for-the-badge&logo=quickdb&logoColor=white)
 
 ### 📚 More Experience
 
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-<br>
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white)
+<details>
+  <summary>🔍 Code Editors</summary>
+
+- [VS Code](https://code.visualstudio.com/)
+- [Visual Studio](https://visualstudio.microsoft.com/)
+- [Android Studio](https://developer.android.com/studio)
+</details>
+
+<details>
+  <summary>🎮 Game Engines</summary>
+
+- [Unity](https://unity.com/)
+- [Godot](https://godotengine.org/)
+</details>
+
+<details>
+  <summary>📝 Hosting</summary>
+
+- [Google Cloud](https://cloud.google.com/)
+- [Replit](https://replit.com/)
+- [Vercel](https://vercel.com/)
+</details>
+
+<details>
+  <summary>🖥 Terminal</summary>
+
+- [WSL](https://docs.microsoft.com/en-us/windows/wsl/)
+- [Termux](https://termux.com/)
+- [Bash](https://www.gnu.org/software/bash/)
+- [Git](https://git-scm.com/)
+</details>
+
+<details>
+  <summary>🏗 Competitions</summary>
+
+- [FTC](https://www.firstinspires.org/)
+- [Unihack](https://unihack.eu/)
+</details>
 
 ### ☕ Operating Systems
 
@@ -76,6 +105,5 @@
 - [DragobeteV5](https://github.com/Ionut767/DragobeteV5): A web application that allows users to create and share their posts and comments! The project features a user-friendly interface, and it's easy to use, it has a great users account system and a lot of security features!
 
 <!--
-Design inspiration: https://github.com/CodexDevv (CodexDevv)
 Icons: https://github.com/alexandresanlim/Badges4-README.md-Profile
 -->
