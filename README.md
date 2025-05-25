@@ -4,7 +4,7 @@
 
 ## 📝 About me
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" src="https://media.discordapp.net/attachments/857714045251878972/1372327620863201481/tumblr_nuzzgkfGLq1udse8eo1_500_gif_500282.gif?ex=683436f1&is=6832e571&hm=bbb639ac3b29864612dcdf0df9c2fa7fe3148117e3aeafb33af4b787d5620d23&" />
 
 ### 💻 Programming Languages
 
